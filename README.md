@@ -55,14 +55,16 @@
   
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abhishek-Khot&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Khot&layout=compact&theme=radical)
+
 ![](https://streak-stats.demolab.com?user=Abhishek-Khot&theme=radical)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiGoyat&layout=compact&theme=radical)
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
 [![](https://visitcount.itsvg.in/api?id=Abhishek-Khot&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -75,5 +77,13 @@
 <a href = "https://www.linkedin.com/in/abhishek-r-khot-b42025260/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://x.com/Khot_Abhishek_3"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/abhishek_khot_03/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://leetcode.com/TheRollno1"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem"width="50rem"><a>
 <a href = "https://www.geeksforgeeks.org/user/rollno1"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" height="50rem" width="50rem"/></a>
+<a href = "https://leetcode.com/TheRollno1"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem"width="50rem"><a>
+</p>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
+![7k Views](https://img.shields.io/badge/LeetCode%20Profile%20Views-7k-%23E34F26?style=for-the-badge&logoColor=white&color=E34F26&labelColor=black&logo=github&border-radius=10px)
+
