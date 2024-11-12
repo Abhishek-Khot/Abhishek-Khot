@@ -85,5 +85,6 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-![7k Views](https://img.shields.io/badge/LeetCode%20Profile%20Views-7k-%23E34F26?style=for-the-badge&logoColor=white&color=E34F26&labelColor=black&logo=github&border-radius=10px)
+![8k Views](https://img.shields.io/badge/LeetCode%20Profile%20Views-8k-%23E34F26?style=for-the-badge&logoColor=white&color=E34F26&labelColor=black&logo=github&border-radius=10px)
+
 
