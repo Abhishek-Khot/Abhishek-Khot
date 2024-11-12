@@ -55,7 +55,7 @@
 <a href = "https://www.linkedin.com/in/abhishek-r-khot-b42025260/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://x.com/Khot_Abhishek_3"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/abhishek_khot_03/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://leetcode.com/u/TheRollNo1/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem"width="50rem"><a>
-<a href = "https://www.geeksforgeeks.org/user/rollno1/"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" height="50rem" width="50rem"/></a>
+<a href = "https://leetcode.com/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem"width="50rem"><a>
+<a href = "https://www.geeksforgeeks.org/user"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" height="50rem" width="50rem"/></a>
 
 
