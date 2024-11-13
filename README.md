@@ -11,7 +11,7 @@
 </p>
 
 ### 🙋‍♂ About Me
-- 👩‍🎓 I'm a sophomore at *Jain College of Engineering and Research*
+- 👨‍🎓 I'm a sophomore at *Jain College of Engineering and Research*
 
 - 🔭 I’m looking to contribute to *Open Source*
 
