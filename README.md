@@ -9,7 +9,18 @@
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
+### 🙋‍♂️ About Me
+- 👩‍🎓 I'm a sophomore at **Jain College of Engineering and Research**
 
+- 🔭 I’m looking to contribute to **Open Source**
+
+- 🌱 I’m currently exploring **Machine learning**
+
+- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=khotabhishek15@.com" style="text-decoration: none;">Email</a>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
