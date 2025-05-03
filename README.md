@@ -58,7 +58,7 @@
 
 ![](https://streak-stats.demolab.com?user=Abhishek-Khot&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiGoyat&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Khot&layout=compact&theme=radical)
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
