@@ -11,11 +11,9 @@
 </p>
   
 ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm a sophomore at **Jain College of Engineering and Research**
+- 👩‍🎓 I'm a Final Year Student at **Jain College of Engineering and Research**
 
 - 🔭 I’m looking to contribute to **Open Source**
-
-- 🌱 I’m currently exploring **Machine learning**
 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=khotabhishek15@gmail.com" style="text-decoration: none;">Email</a>
 
@@ -62,16 +60,7 @@
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
-  
-[![](https://visitcount.itsvg.in/api?id=Abhishek-Khot&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-  
 <h4> 📬 Reach me out </h4>
 <p align="left">
 <a href = "https://www.linkedin.com/in/abhishek-r-khot-b42025260/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -86,5 +75,6 @@
 </p>
 
 ![8k Views](https://img.shields.io/badge/LeetCode%20Profile%20Views-8k-%23E34F26?style=for-the-badge&logoColor=white&color=E34F26&labelColor=black&logo=github&border-radius=10px)
+
 
 
