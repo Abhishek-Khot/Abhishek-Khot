@@ -11,6 +11,9 @@
 </p>
   
 ### 🙋‍♂️ About Me
+<img align="right" width="250px" height="200px"
+src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - 👩‍🎓 I'm a Final Year Student at **Jain College of Engineering and Research**
 
 - 🔭 I’m looking to contribute to **Open Source**
@@ -77,6 +80,7 @@
 </p>
 
 ![8k Views](https://img.shields.io/badge/LeetCode%20Profile%20Views-8k-%23E34F26?style=for-the-badge&logoColor=white&color=E34F26&labelColor=black&logo=github&border-radius=10px)
+
 
 
 
