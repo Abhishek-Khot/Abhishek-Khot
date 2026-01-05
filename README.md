@@ -52,7 +52,7 @@
 </p>
   <h1>Github Contribution✨<h1>
 
-![snake gif](https://github.com/Abhishek-Khot/Abhishek-Khot/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Abhishek-Khot/blob/output/github-contribution-grid-snake.svg)
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abhishek-Khot&show_icons=true&theme=radical)
 
@@ -77,6 +77,7 @@
 </p>
 
 ![8k Views](https://img.shields.io/badge/LeetCode%20Profile%20Views-8k-%23E34F26?style=for-the-badge&logoColor=white&color=E34F26&labelColor=black&logo=github&border-radius=10px)
+
 
 
 
