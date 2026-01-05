@@ -16,6 +16,8 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 👩‍🎓 I'm a Final Year Student at **Jain College of Engineering and Research**
 
+- 🌱 Currently doing DSA in C++
+
 - 🔭 I’m looking to contribute to **Open Source**
 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=khotabhishek15@gmail.com" style="text-decoration: none;">Email</a>
@@ -80,6 +82,7 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
 
 ![8k Views](https://img.shields.io/badge/LeetCode%20Profile%20Views-8k-%23E34F26?style=for-the-badge&logoColor=white&color=E34F26&labelColor=black&logo=github&border-radius=10px)
+
 
 
 
