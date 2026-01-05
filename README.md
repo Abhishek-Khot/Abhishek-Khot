@@ -55,15 +55,23 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
-  <h1>Github Contribution✨<h1>
+  
 
-![snake gif](https://github.com/Abhishek-Khot/Abhishek-Khot/blob/main/github-contribution-grid-snake.svg)
+
+  
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abhishek-Khot&show_icons=true&theme=radical)
 
 ![](https://streak-stats.demolab.com?user=Abhishek-Khot&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Khot&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
+### Github Contribution✨
+![snake gif](https://github.com/Abhishek-Khot/Abhishek-Khot/blob/main/github-contribution-grid-snake.svg)
+
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
@@ -82,6 +90,7 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
 
 ![8k Views](https://img.shields.io/badge/LeetCode%20Profile%20Views-8k-%23E34F26?style=for-the-badge&logoColor=white&color=E34F26&labelColor=black&logo=github&border-radius=10px)
+
 
 
 
